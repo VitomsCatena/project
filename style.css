@@ -123,9 +123,8 @@ text-align: center;
 }
 
 .banner .btn{
-   width: 121px;
-   height: 18px;
-   background: rgba(194, 113, 255, 1);
-   top: 419px;
-   left: 639px;
+   width: 100px;
+   height: 30px;
+   background: rgb(235, 199, 136);
+   color: rgb(27, 26, 25);
 }    
