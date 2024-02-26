@@ -72,7 +72,16 @@ header{
 
 .course{
     background-image: url(images/laptop.jpg);
+    width: 1440px;
+    height: 1093px;
     background-repeat: no-repeat;
     object-fit: cover;
     background-size: 100vw 100vh;
+}
+
+.tutorials{
+    width: 1009px;
+    height: 237px;
+    top: 758px;
+    left: 217px;
 }
