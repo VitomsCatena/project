@@ -69,3 +69,8 @@ header{
   line-height: 15px;
 
 }
+
+.banner{
+    background-image: url(images/about.jpg);
+    
+}
