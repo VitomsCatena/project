@@ -125,8 +125,12 @@ text-align: center;
    color: rgb(243, 239, 234);
    margin-left: 45%;
    margin-top: 3%;
+   border-radius: 20%;
 } 
 
+.banner .btn:hover{
+    background-color: rgb(64, 226, 43);
+}
 .content .tutorials{
     width: 100%;
     height: 100%;
