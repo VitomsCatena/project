@@ -11,12 +11,11 @@ header{
     top: 10;
     left: 170;
     display: flex;
-    justify-content:space-around;
+    justify-content:space-between;
 }
 
 .menu-link{
-    top: 37px;
-    left: 1041px;
-    font-style: italic;
+    left: 100%;
+    font-style: 30%;
     justify-content: flex-end;
 }
