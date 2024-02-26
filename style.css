@@ -109,7 +109,7 @@ text-align: center;
     font-family: sans-serif;
     font-style: italic;
     font-size: 16px;
-    font-weight: 200;
+    font-weight: 400;
     line-height: 10px;
     text-align: center;
     background-color: transparent;
@@ -130,6 +130,8 @@ text-align: center;
 .banner .btn{
    width: 100px;
    height: 30px;
-   background: rgb(235, 199, 136);
-   color: rgb(27, 26, 25);
+   background: rgb(165, 16, 145);
+   color: rgb(243, 239, 234);
+   margin-left: 45%;
+   margin-top: 3%;
 }    
