@@ -70,7 +70,8 @@ header{
 
 }
 
-.banner{
-    background-image: url(images/about.jpg);
-    
+.course{
+    background-image: url(images/laptop.jpg);
+    background-repeat: no-repeat;
+    object-fit: cover;
 }
