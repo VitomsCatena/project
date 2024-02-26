@@ -33,5 +33,10 @@ header{
     width: 34px;
     height: 15px;
     left: 200px;
-
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+    text-align: left;
+    
 }
