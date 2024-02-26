@@ -124,16 +124,7 @@ text-align: center;
 }
 
 .banner .btn{
-font-family: Source Sans Pro;
-font-size: 14px;
-font-weight: 600;
-line-height: 18px;
-text-align: center;
-width: 121px;
-height: 18px;
-top: 13px;
-left: 20px;
-background: rgb(223, 69, 69);
-align-content: center;
-justify-content: center;
-}
+   width: 121px;
+   height: 18px;
+   
+}    
