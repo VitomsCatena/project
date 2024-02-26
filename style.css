@@ -74,4 +74,5 @@ header{
     background-image: url(images/laptop.jpg);
     background-repeat: no-repeat;
     object-fit: cover;
+    background-size: 100vw 100vh;
 }
