@@ -10,12 +10,12 @@ header{
     height:100%;
     top: 10;
     left: 170;
+    display: flex;
 }
 
 .menu-link{
-    width: 234px;
-    height: 15px;
     top: 37px;
     left: 1041px;
     font-style: italic;
+    justify-content: flex-end;
 }
