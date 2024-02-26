@@ -104,21 +104,20 @@ text-align: center;
 }
 
 .banner p{
-    font-family: Source Sans Pro;
+    font-family: sans-serif;
+    font-style: italic;
     font-size: 16px;
-    font-weight: 700;
-    line-height: 20px;
-    letter-spacing: 0px;
-     text-align: center;
+    font-weight: 200;
+    line-height: 10px;
+    text-align: center;
 
 }
  
 .banner h2{
     font-family: Source Sans Pro;
-    font-size: 120px;
-    font-weight: 700;
-    line-height: 151px;
-    letter-spacing: 0px;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 100px;
     text-align: center;
 
 }
@@ -126,5 +125,7 @@ text-align: center;
 .banner .btn{
    width: 121px;
    height: 18px;
-   
+   background: rgba(194, 113, 255, 1);
+   top: 419px;
+   left: 639px;
 }    
