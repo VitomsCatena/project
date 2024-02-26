@@ -25,6 +25,7 @@ header{
     height: 100%;
     font-size: 90%;
     display: inline-flex;
+    justify-content: space-around;
     align-items: center;
 }
 
