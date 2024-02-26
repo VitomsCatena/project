@@ -79,12 +79,6 @@ header{
     background-size: 100vw 100vh;
 }
 
-.tutorials{
-    width: 100%;
-    height: 100%;
-    top: 75px;
-    left: 217px;
-}
 
 h3{
     width:100%;
@@ -136,11 +130,20 @@ text-align: center;
    margin-top: 3%;
 } 
 
-.content .tutorial{
+.content .tutorials{
     width: 100%;
     height: 100%;
 
 }
+
+
+.tutorials{
+    width: 100%;
+    height: 100%;
+    display: flex;
+   
+}
+
 
 .tutorial img{
     width: 150px;
