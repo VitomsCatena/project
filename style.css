@@ -250,3 +250,7 @@ header{
 .membership .package{
     background-color: rgb(7,22,41);
 }
+
+.package h3{
+    text-align: center;
+}
