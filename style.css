@@ -260,4 +260,5 @@ header{
     height: 300px;
     align-items: center;
     border-top-left-radius: 5%;
+    border-bottom-right-radius: 5%;
 }
