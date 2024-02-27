@@ -287,3 +287,11 @@ header{
 button{
     text-align: center;
 }
+
+.FAQ{
+    width: 920px;
+    height: 707px;
+    display: flex;
+
+
+}
