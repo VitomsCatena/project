@@ -289,9 +289,8 @@ button{
 }
 
 .FAQ{
-    width: 920px;
-    height: 707px;
     display: flex;
-
-
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(165, 128, 80);
 }
