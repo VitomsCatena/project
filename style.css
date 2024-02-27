@@ -259,4 +259,5 @@ header{
     width: 250px;
     height: 300px;
     align-items: center;
+    border-top-left-radius: 5%;
 }
