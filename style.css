@@ -253,6 +253,8 @@ header{
 
 .package h3{
     text-align: center;
+    background-color: transparent;
+    color: rgb(247, 212, 169);
 }
 
 .package img{
