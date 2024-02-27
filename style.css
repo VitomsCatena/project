@@ -265,3 +265,12 @@ header{
     border-top-left-radius: 5%;
     border-bottom-right-radius: 5%;
 }
+
+.package p{
+    text-align: center;
+    background-color: transparent;
+    color: rgb(216, 201, 182);
+    font-size: 20px;
+}
+
+.pa
