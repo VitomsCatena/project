@@ -277,4 +277,12 @@ header{
     width: 162px;
    height: 44px;
    background: rgba(194, 113, 255, 1);
+   justify-content: center;
+}
+.package .btn:hover{
+
+}
+
+button{
+    text-align: center;
 }
