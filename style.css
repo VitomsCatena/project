@@ -256,5 +256,6 @@ header{
 }
 
 .package img{
-    width: 200px;
+    width: 300px;
+    height: 300px;
 }
