@@ -244,4 +244,5 @@ header{
     top: 2109px;
     background: rgb(7, 22, 41);
     border-top-left-radius: 5%;
+    display: flex;
 }
