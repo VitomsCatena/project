@@ -246,3 +246,7 @@ header{
     border-top-left-radius: 5%;
     display: flex;
 }
+
+.membership .package{
+    background-color: rgb(7,22,41);
+}
