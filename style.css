@@ -280,7 +280,8 @@ header{
    justify-content: center;
 }
 .package .btn:hover{
-
+   background-color: yellowgreen;
+   font-size: 20%;
 }
 
 button{
