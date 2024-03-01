@@ -294,3 +294,8 @@ button{
     align-items: center;
     background-color: rgb(165, 128, 80);
 }
+
+footer{
+    background-image: url(images/laptop.jpg);
+    justify-content: center;
+}
