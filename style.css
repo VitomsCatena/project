@@ -282,6 +282,7 @@ header{
 .package .btn:hover{
    background-color: yellowgreen;
    font-size: 35px;
+   font-style: italic;
 }
 
 button{
