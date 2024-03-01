@@ -1,57 +1,56 @@
-*{
-    padding: 2px;
-    margin: 2px;
-    background-color: rgb(235, 216, 191);
+* {
+  padding: 2px;
+  margin: 2px;
+  background-color: rgb(235, 216, 191);
 }
 
-header{
-    background-color: rgb(247, 199, 136);
-    width: 100%;
-    height:100%;
-    top: 10;
-    left: 10;
-    display: flex;
-    justify-content: space-between;
+header {
+  background-color: rgb(247, 199, 136);
+  width: 100%;
+  height: 100%;
+  top: 10;
+  left: 10;
+  display: flex;
+  justify-content: space-between;
 }
 
-.logo img{
-   margin-top: 10px;
-   width: 20px;
-   height: 20px;
-   border-radius: 40%;
+.logo img {
+  margin-top: 10px;
+  width: 20px;
+  height: 20px;
+  border-radius: 40%;
 }
 
-.logo img:hover{
-   margin-top: 10px;
-   width: 90px;
-   height: 90px;
+.logo img:hover {
+  margin-top: 10px;
+  width: 90px;
+  height: 90px;
 }
 
-.menu-link{
-    width: 100%;
-    height: 100%;
-    font-size: 90%;
-    display: inline-flex;
-    justify-content: space-around;
-    align-items: center;
+.menu-link {
+  width: 100%;
+  height: 100%;
+  font-size: 90%;
+  display: inline-flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
-.menu-link:hover{
-    font-family: sans-serif;  
-    color: rgb(113, 212, 14);
+.menu-link:hover {
+  font-family: sans-serif;
+  color: rgb(113, 212, 14);
 }
 
-#content{
-    left: 200px;
-    font-family: Source Sans Pro;
-    font-size: 12px;
-    font-weight: 700;
-    line-height: 15px;
-    text-align: left;
-    
+#content {
+  left: 200px;
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15px;
+  text-align: left;
 }
 
-#package{
+#package {
   width: 45px;
   height: 15px;
   left: 102px;
@@ -60,250 +59,241 @@ header{
   font-weight: 700;
   line-height: 15px;
   text-align: left;
-
 }
 
-#about{
+#about {
   width: 50px;
   height: 30px;
   font-family: Source Sans Pro;
   font-size: 12px;
   font-weight: 700;
   line-height: 15px;
-
 }
 
-.course{
-    background-image: url(images/laptop.jpg);
-    width: 100%;
-    height: 100%;
-    background-repeat: no-repeat;
-    object-fit: cover;
-    background-size: 100vw 100vh;
+.course {
+  background-image: url(images/laptop.jpg);
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  background-size: 100vw 100vh;
 }
 
-
-.content h3{
-    width:100%;
-   height: 100%;
-   font-size: 10px;
-   font-weight: 200;
-   text-align: center;
-   font-family: Source Sans Pro;
-   background-color: rgb(235, 216, 191);
-   text-align: center;
-
+.content h3 {
+  width: 100%;
+  height: 100%;
+  font-size: 10px;
+  font-weight: 200;
+  text-align: center;
+  font-family: Source Sans Pro;
+  background-color: rgb(235, 216, 191);
+  text-align: center;
 }
 
-.banner{
-    background-color: transparent;
+.banner {
+  background-color: transparent;
 }
-.banner p{
-    font-family: sans-serif;
-    font-style: italic;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 10px;
-    text-align: center;
-    background-color: transparent;
-}
-
- 
-.banner h2{
-    font-family: Source Sans Pro;
-    font-size: 60px;
-    font-weight: 400;
-    line-height: 100px;
-    text-align: center;
-    background-color: transparent;
+.banner p {
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 10px;
+  text-align: center;
+  background-color: transparent;
 }
 
-
-.banner .btn{
-   width: 100px;
-   height: 30px;
-   background: rgb(165, 16, 145);
-   color: rgb(243, 239, 234);
-   margin-left: 45%;
-   margin-top: 3%;
-   border-radius: 20%;
-} 
-
-.banner .btn:hover{
-    font-style: italic;
-    background-color: rgb(5, 27, 2);
-    color: rgb(243, 239, 234);
-}
-.content .tutorials{
-    width: 100%;
-    height: 100%;
-    background-color: transparent;
+.banner h2 {
+  font-family: Source Sans Pro;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 100px;
+  text-align: center;
+  background-color: transparent;
 }
 
-.content h3{
-    font-family: Source Sans Pro;
-    font-size: 60px;
-    font-weight: 400;
-    line-height: 100px;
-    text-align: center;
-    background-color: transparent;
+.banner .btn {
+  width: 100px;
+  height: 30px;
+  background: rgb(165, 16, 145);
+  color: rgb(243, 239, 234);
+  margin-left: 45%;
+  margin-top: 3%;
+  border-radius: 20%;
 }
 
-.tutorial{
-    width: 20%;
-    background-color: rgb(214, 126, 10);
-    border-radius: 20%;
+.banner .btn:hover {
+  font-style: italic;
+  background-color: rgb(5, 27, 2);
+  color: rgb(243, 239, 234);
 }
-.tutorials{
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: space-around;
-    background-color: rgb(207, 156, 89);
+.content .tutorials {
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
 }
 
-.tutorials:hover{
-    background-color:  rgb(175, 149, 114);
+.content h3 {
+  font-family: Source Sans Pro;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 100px;
+  text-align: center;
+  background-color: transparent;
 }
 
-.tutorial img{
-    width: 150px;
-    height: 150px;
-    border-radius: 45%;
-    justify-content: center;
-
+.tutorial {
+  width: 20%;
+  background-color: rgb(214, 126, 10);
+  border-radius: 20%;
+}
+.tutorials {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(207, 156, 89);
 }
 
-.tutorial h2{
-   background-color: transparent;
-   font-family: Source Sans Pro;
-   font-size: 18px;
-   font-weight: 900;
-   line-height: 27px;
-   text-align: center;
-
+.tutorials:hover {
+  background-color: rgb(175, 149, 114);
 }
 
-.tutorial p{
-   font-family: Source Sans Pro;
-   font-size: 16px;
-   font-style: italic;
-   font-weight: 400;
-   line-height: 24px;
-   background-color: transparent;
-   text-align: center;
+.tutorial img {
+  width: 150px;
+  height: 150px;
+  border-radius: 45%;
+  justify-content: center;
 }
 
-.quote{
-     width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: space-between;
-    background-color: rgb(165, 16, 145);
+.tutorial h2 {
+  background-color: transparent;
+  font-family: Source Sans Pro;
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 27px;
+  text-align: center;
 }
 
-.quote1 img{
-    width: 150px;
-    height: 150px;
-    border-radius: 45%;
-
+.tutorial p {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 24px;
+  background-color: transparent;
+  text-align: center;
 }
 
-.quote1 h2{
-   font-family: Source Sans Pro;
-   font-size: 18px;
-   font-weight: 900;
-   line-height: 27px;
-   text-align: center;
-
+.quote {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(165, 16, 145);
 }
 
-.quote1 p{
-    font-family: Source Sans Pro;
-   font-size: 16px;
-   font-style: italic;
-   font-weight: 400;
-   line-height: 24px;
-   text-align: center;
-
+.quote1 img {
+  width: 150px;
+  height: 150px;
+  border-radius: 45%;
 }
 
-.video{
-    display: flex;
-    width: 100%;
-    height: 100%;
+.quote1 h2 {
+  font-family: Source Sans Pro;
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 27px;
+  text-align: center;
 }
 
+.quote1 p {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+}
 
-.video p{
+.video {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.video p {
   font-family: Source Sans Pro;
   font-size: 30px;
   font-weight: 100;
   text-align: center;
-
 }
 
-.membership{
-    width: 1440px;
-    height: 502px;
-    top: 2109px;
-    background: rgb(7, 22, 41);
-    border-top-left-radius: 5%;
-    display: flex;
+.membership {
+  width: 1440px;
+  height: 502px;
+  top: 2109px;
+  background: rgb(7, 22, 41);
+  border-top-left-radius: 5%;
+  display: flex;
 }
 
-.membership .package{
-    background-color: rgb(7,22,41);
+.membership .package {
+  background-color: rgb(7, 22, 41);
 }
 
-.package h3{
-    text-align: center;
-    background-color: transparent;
-    color: rgb(247, 212, 169);
-    font-size: 30px;
+.package h3 {
+  text-align: center;
+  background-color: transparent;
+  color: rgb(247, 212, 169);
+  font-size: 30px;
 }
 
-.package img{
-    width: 250px;
-    height: 300px;
-    align-items: center;
-    border-top-left-radius: 5%;
-    border-bottom-right-radius: 5%;
+.package img {
+  width: 250px;
+  height: 300px;
+  align-items: center;
+  border-top-left-radius: 5%;
+  border-bottom-right-radius: 5%;
 }
 
-.package p{
-    text-align: center;
-    background-color: transparent;
-    color: rgb(216, 201, 182);
-    font-size: 20px;
+.package p {
+  text-align: center;
+  background-color: transparent;
+  color: rgb(216, 201, 182);
+  font-size: 20px;
 }
 
-.package .btn{
-    width: 162px;
-   height: 44px;
-   background: rgba(194, 113, 255, 1);
-   justify-content: center;
+.package .btn {
+  width: 162px;
+  height: 44px;
+  background: rgba(194, 113, 255, 1);
+  justify-content: center;
 }
-.package .btn:hover{
-   background-color: rgb(153, 189, 81);
-   font-size: 35px;
-   font-style: italic;
-   font-family: sans-serif;
-   color: rgb(42, 33, 175);
-}
-
-button{
-    text-align: center;
+.package .btn:hover {
+  background-color: rgb(153, 189, 81);
+  font-size: 35px;
+  font-style: italic;
+  font-family: sans-serif;
+  color: rgb(42, 33, 175);
 }
 
-.FAQ{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: rgb(165, 128, 80);
+button {
+  text-align: center;
 }
 
-footer{
-    background-image: url(images/laptop.jpg);
-    justify-content: center;
+.FAQ {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(165, 128, 80);
+}
+
+footer {
+  background-image: url(images/laptop.jpg);
+  justify-content: center;
+}
+
+footer img {
+  align-content: center;
 }
