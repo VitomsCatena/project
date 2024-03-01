@@ -36,7 +36,7 @@ header{
     align-items: center;
 }
 
-.menu-link{
+.menu-link:hover{
     font-family: sans-serif;  
     color: rgb(113, 212, 14);
 }
